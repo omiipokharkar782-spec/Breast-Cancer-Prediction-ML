@@ -1,0 +1,13 @@
+{
+  "selected_model": "Logistic Regression",
+  "best_params": {
+    "model__C": 1
+  },
+  "test_metrics": {
+    "accuracy": 0.9736842105263158,
+    "precision": 0.975609756097561,
+    "recall": 0.9523809523809523,
+    "f1": 0.963855421686747,
+    "roc_auc": 0.9973544973544973
+  }
+}
